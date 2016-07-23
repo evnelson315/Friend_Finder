@@ -14,6 +14,102 @@ var friendsArray = [{
      1
    ]
 },
+{
+  name:"Han Solo",
+  photo:"https://cdn.theatlantic.com/assets/media/img/mt/2016/01/solo/lead_large.jpg?1452549010",
+  scores:[
+     4,
+     4,
+     1,
+     3,
+     3,
+     1,
+     3,
+     5,
+     4,
+     3
+   ]
+},
+{
+  name:"Jar Jar Binks",
+  photo:"http://www.thestar.com.my/~/media/online/2015/12/07/07/53/jar-jar-binks.ashx/?w=620&h=413&crop=1&hash=D40A30B21CFF8201DE715B9186C02BC2D093EAF7",
+  scores:[
+     5,
+     5,
+     1,
+     1,
+     5,
+     1,
+     3,
+     3,
+     1,
+     1
+   ]
+},
+{
+  name:"Yoda",
+  photo:"http://vignette2.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest?cb=20150206140125",
+  scores:[
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+   ]
+},
+{
+  name:"C3PO",
+  photo:"http://www.sideshowtoy.com/wp-content/uploads/2014/11/star-wars-c-3po-sixth-scale-thumb-2171.jpg",
+  scores:[
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5
+   ]
+},
+{
+  name:"TanTan",
+  photo:"http://img.lum.dolimg.com/v1/images/databank_tauntaun_01_169_b7307446.jpeg?region=0%2C0%2C1560%2C878&width=768",
+  scores:[
+     1,
+     1,
+     1,
+     1,
+     5,
+     5,
+     5,
+     3,
+     3,
+     1
+   ]
+},
+{
+  name:"Scout Trooper",
+  photo:"https://i.ytimg.com/vi/h2BDe9EmmRw/maxresdefault.jpg",
+  scores:[
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1,
+     1
+   ]
+},
 ];
 
 module.exports = friendsArray;

@@ -1,11 +1,14 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "",
-  "main": "weatherdest.js",
+  "description": "Homework",
+  "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "EvanN",
   "license": "ISC"
+},
+"engines": {
+	"node": "4.1.1"
 }

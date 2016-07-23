@@ -1,14 +1,24 @@
 {
-  "name": "package.json",
+  "name": "friendfinder",
   "version": "1.0.0",
-  "description": "Homework",
-  "main": "web.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "hw",
+  "engines": {
+    "node": "6.3.0"
   },
-  "author": "EvanN",
-  "license": "ISC"
-},
-"engines": {
-	"node": "4.1.1"
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.14.0",
+    "path": "0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evnelson315/Friend_Finder.git"
+  },
+  "author": "enelson",
+  "homepage": "https://github.com/evnelson315"
 }
